@@ -129,7 +129,7 @@ end
 # Write code here
 
 def all_players
-  # takes the gmae hash and returns array of all players
+  # takes the game hash and returns array of all players
   
   game = game_hash
   
